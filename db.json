@@ -1,14 +1,53 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "description": "Fugiat enim nostrud cillum culpa. Duis cillum sint minim dolor consequat. Elit do voluptate duis commodo sint proident qui consectetur ex. Do aliqua commodo anim pariatur. Irure Lorem dolor veniam sint elit eu.",
+      "image": "https://picsum.photos/id/600/500"
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "description": "Minim laborum officia quis sunt ut quis. Exercitation laboris duis aliquip quis ea tempor aliqua. Ipsum minim est labore incididunt cillum.",
+      "image": "https://picsum.photos/id/601/500"
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "description": "Incididunt id nostrud incididunt quis nisi commodo reprehenderit. Anim velit reprehenderit sunt aute laboris non culpa ullamco. Tempor magna pariatur officia veniam irure fugiat dolor.",
+      "image": "https://picsum.photos/id/602/500"
+    },
+    {
+      "id": 4,
+      "title": "Post 4",
+      "description": "Lorem sit do ut elit id. Dolore do est enim in. Mollit enim ea aliqua sint. Reprehenderit dolore nulla ea ullamco in veniam.",
+      "image": "https://picsum.photos/id/603/500"
+    },
+    {
+      "id": 5,
+      "title": "Post 5",
+      "description": "Dolore voluptate consequat occaecat voluptate veniam reprehenderit anim amet ea. Elit esse culpa amet laborum deserunt aliqua. Ut commodo officia do non labore exercitation cupidatat.",
+      "image": "https://picsum.photos/id/604/500"
+    },
+    {
+      "id": 6,
+      "title": "Post 6",
+      "description": "Lorem sit do ut elit id. Dolore do est enim in. Mollit enim ea aliqua sint. Reprehenderit dolore nulla ea ullamco in veniam.",
+      "image": "https://picsum.photos/id/605/500"
+    },
+    {
+      "id": 7,
+      "title": "Post 7",
+      "description": "Dolore voluptate consequat occaecat voluptate veniam reprehenderit anim amet ea. Elit esse culpa amet laborum deserunt aliqua. Ut commodo officia do non labore exercitation cupidatat.",
+      "image": "https://picsum.photos/id/606/500"
+    },
+    {
+      "id": 8,
+      "title": "Post 8",
+      "description": "Lorem sit do ut elit id. Dolore do est enim in. Mollit enim ea aliqua sint. Reprehenderit dolore nulla ea ullamco in veniam.",
+      "image": "https://picsum.photos/id/607/500"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "galleryImages": "https://picsum.photos/v2/list"
 }
